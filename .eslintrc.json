@@ -1,3 +1,6 @@
 {
   "extends": ["plugin:@wix/cli/recommended"]
-}
+}git clone git@github.com:scottyseeley1986-collab/build-pro-academy.git
+cd build-pro-academy
+npm install
+
